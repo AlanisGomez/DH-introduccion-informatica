@@ -1,1 +1,2 @@
 Hola Mundo
+Estamos trabajando con Tomas Monte haciendo la actividad de la clase Introduccion a la Informatica.
